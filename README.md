@@ -1,2 +1,2 @@
 # Reactmachinetask
-Statboard
+Statboards
